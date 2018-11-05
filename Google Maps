@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Google Maps </title> 
+</head>
+<font color="blue"><h1>Google Maps</h1> </font>
+
+<body>
+
+
+
+<ul>
+<li> <h3> History </h3> </li>
+<li> <h3> Sattelite View</h3> </li>
+<li> <h3> Street View </h3> </li>
+<li> <h3> Navigation</h3> </li>
+</ul>
+
+<br> </br> 
+
+
+Google Maps is a web mapping service developed by Google. It offers satellite imagery, street maps, 360° panoramic views of streets (Street View), 
+real-time traffic conditions (Google Traffic), and route planning for traveling by foot, <br> </br> car, bicycle (in beta), or public transportation. </h3>
+</body>
+</html>
