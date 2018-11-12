@@ -12,6 +12,15 @@ Send me mail at <a href="mailto:support@yourcompany.com">
 support@yourcompany.com</a>. 
 <P> This is a new paragraph! 
 <P> <B>This is a new paragraph!</B> 
-<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B> 
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<br></br>
+<br></br>
+<br></br>
+
+<div id="about_person">
+  <h3>About</h3>
+  <p> This page about Google was created by Osama </p>
+
 </BODY> 
 </HTML> 
